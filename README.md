@@ -1,2 +1,3 @@
 # alammarimalak.github.io
-echo "try out" > README.md
+Welcome to my page!
+This is my first README.md on github
