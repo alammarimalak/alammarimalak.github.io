@@ -2,7 +2,7 @@
                                                                 Welcome to my page!
                                                             Get to know more about me :P
 <h1 align="center">Hi 👋, I'm Malak Al Ammari</h1>
-<h3 align="center">a full stack developer from Morocco!!</h3>
+<h3 align="center">a computer science student from Morocco!!</h3>
 <img align="right" alt="Coding" widtn="150px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c4d73363342391.5aae0d5bacf95.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alammarimalak&label=Profile%20views&color=0e75b6&style=flat" alt="alammarimalak" /> </p>
 
