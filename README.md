@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/malakalammari" target="blank"><img src="https://img.shields.io/twitter/follow/malakalammari?logo=twitter&style=for-the-badge" alt="malakalammari" /></a> </p>
 
-- 🔭 I’m currently studying mathematics and computer science at Ibn tofail university[Holberton school](https://www.alxafrica.com/software-engineering/)
+- 🔭 I’m currently studying mathematics and computer science at Ibn tofail university [Ibn tofail university](https://www.uit.ac.ma/)
 
 - 🌱 I’m currently learning Software engineering **free courses on ALX**
 
