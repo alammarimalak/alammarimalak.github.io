@@ -8,17 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/malakalammari" target="blank"><img src="https://img.shields.io/twitter/follow/malakalammari?logo=twitter&style=for-the-badge" alt="malakalammari" /></a> </p>
 
-- 🔭 I’m currently studying mathematics and computer science at Ibn tofail university [Ibn tofail university](https://www.uit.ac.ma/)
-
-- 🌱 I’m currently learning Software engineering **free courses on ALX**
-
-- 📝 I regularly write articles on [Medium](Medium)
-
-- 💬 Ask me about **linux, C, C#, Python, Git, GitHub, GitBash.**
+- 🔭 I’m currently studying mathematics and computer science at [Ibn tofail university](https://www.uit.ac.ma/)
 
 - 📫 How to reach me **alammarimalak17@gmail.com**
 
-- ⚡ Fun fact **I speak 4 languages: English, French, Arabic and spanish**
+- ⚡ Fun fact **I speak 4 languages: English, French, Arabic and Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
