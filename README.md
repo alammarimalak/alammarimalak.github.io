@@ -1,6 +1,7 @@
 # alammarimalaka.github.io
                                                              Welcome to my page!
-                                                         Get to know more about me :P
+                                                        Get to know more about me :P
+<body background-color ="grey">                                                      
 <h1 align="center">Hi 👋, I'm Malak Al Ammari</h1>
 <h3 align="center">A 3rd year computer science student and 1st year intern at Specialized Institution of Applied Technologies</h3>
 <img align="right" alt="Coding" widtn="150px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c4d73363342391.5aae0d5bacf95.gif">
@@ -38,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alammarimalak&show_icons=true&locale=en" alt="alammarimalak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alammarimalak&" alt="alammarimalak" /></p>
+</body> 
