@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alammarimalak17@gmail.com**
 
-- ⚡ Fun fact **I speak 4 languages: English, French, Arabic and Spanish**
+- ⚡ Fun fact **I speak 3 languages: English, French, and Arabic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
